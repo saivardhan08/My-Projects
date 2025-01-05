@@ -69,16 +69,3 @@ This project focuses on conducting Exploratory Data Analysis (EDA) on a dataset 
 ## Results
 The analysis provided critical insights into the dynamics of layoffs, highlighting major companies, industries, and countries affected. It also offered an understanding of temporal trends, enabling strategic decision-making for stakeholders.
 
----
-
-## How to Use the Code
-1. Import the provided dataset into MySQL Workbench.
-2. Create a schema and a table to hold the raw data.
-3. Run the provided SQL queries sequentially to reproduce the analysis.
-4. Customize queries to explore additional dimensions of the dataset.
-
----
-
-## Conclusion
-This project demonstrates the power of SQL in deriving actionable insights from raw data. By identifying trends and patterns, organizations can better understand and respond to workforce challenges.
-
